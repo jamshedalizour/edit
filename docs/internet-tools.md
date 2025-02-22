@@ -510,6 +510,8 @@
 * [FEX+](https://fex.plus/) - 7 Days / 7 Days / 5 Domains
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
+* [Tempimail](https://tempimail.org/) - 5 Days / 5 Days / 3 Domain
+* [TempGmail](https://tempgmail.pro/) - 4 Days / 4 Days / 4 Domain
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
 * [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
